@@ -13,7 +13,7 @@ body{
 
 a{
   text-decoration: none;
-  color: #4472C4;
+  color: #fad206;
 }
 
 a:hover{
@@ -37,7 +37,7 @@ h2{
 }
 
 .text-blue{
-  color: #4472C4;
+  color: #fad206;
 }
 
 .text-darkblue{
@@ -69,7 +69,7 @@ h2{
 .colonne-de-gauche{
   grid-area: colonne-de-gauche;
   padding: 50px;
-  background-color: #4472C4;
+  background-color: #fad206;
   color: white;
 }
 
