@@ -113,14 +113,13 @@ h2{
   columns: 2;
   list-style-type: none;
   padding: 0;
-  color: black;
+  color: #5bfa9a;
 }
 
 /* CONTENT */
 .content{
   grid-area: content;
   padding: 50px;
-  background-color: #5bfa9a;
 }
 
 .experience-list{
